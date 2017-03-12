@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/world build v1.unity
+- path: Assets/scenes/landscape moba1.unity
   isLoaded: 1
   isActive: 1
